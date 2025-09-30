@@ -6,6 +6,6 @@ Bem-vindo! Aqui você pode acessar o projeto e os dados diretamente pelo navegad
 
 - [Abrir o site do projeto](https://manualdocientista-mc.github.io/Projeto-ensino-m-todo-cient-fico-/)
 
-## Arquivos disponíveis
+## Planilha com os dados
 
 - [Baixar Excel do projeto](https://manualdocientista-mc.github.io/Projeto-ensino-m-todo-cient-fico-/dados-ensino-metodo-cientifico.xlsx)
